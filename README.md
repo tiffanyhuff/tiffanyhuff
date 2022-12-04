@@ -1,5 +1,5 @@
 - Hi, I’m @tiffanyhuff
-- I’m interested in astro-particle physics and cosmology 
+- I’m passionate about cosmology and astro-particle physics, and committed to open data accessibility, social justice, and environmental and resource sustainability!
 
 
 <!---
